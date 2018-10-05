@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <!-- 图片加载dialog -->
+
+    <!-- 对话框 -->
+    <style name="FullHeightDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
